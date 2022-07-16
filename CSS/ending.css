@@ -1,0 +1,12 @@
+.ending {
+  background: var(--color_primary);
+  color: white;
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  padding: 120px 400px;
+}
+
+.ending h3 {
+  font-weight: lighter;
+}
